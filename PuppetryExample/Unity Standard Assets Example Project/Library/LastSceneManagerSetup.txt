@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SampleScenes/Scenes/Particles.unity
+  isLoaded: 1
+  isActive: 1
